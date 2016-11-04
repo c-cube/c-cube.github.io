@@ -1,0 +1,16 @@
+= Simon Cruanes
+
+Welcome to my main github page. Here, you can find the documentation
+for some of my projects
+that I host on https://github.com/c-cube[github page].
+
+- https://c-cube.github.io/ocaml-containers/[OCaml containers]
+  (a standard library extension for OCaml)
+- https://c-cube.github.io/olinq/[OLinq]
+  (a in-memory query language for OCaml)
+- http://c-cube.github.io/ocaml-bigstring/[OCaml-bigstring]
+  (an OCaml library to deal with bigarrays of bytes)
+- http://c-cube.github.io/maki/[maki]
+  (an on-disk, content-addressed memoization library for OCaml)
+- http://c-cube.github.io/zipperposition/[Zipperposition]
+  (an experimental theorem prover in OCaml)
