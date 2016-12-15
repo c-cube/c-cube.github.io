@@ -14,3 +14,6 @@ that I host on https://github.com/c-cube[github page].
   (an on-disk, content-addressed memoization library for OCaml)
 - http://c-cube.github.io/zipperposition/[Zipperposition]
   (an experimental theorem prover in OCaml)
+- http://c-cube.github.io/qcheck/[qcheck]
+  (QuickCheck inspired property-based testing for OCaml, and combinators to
+  generate random values to run tests on)
