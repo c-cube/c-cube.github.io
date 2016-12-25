@@ -17,3 +17,6 @@ that I host on https://github.com/c-cube[github page].
 - http://c-cube.github.io/qcheck/[qcheck]
   (QuickCheck inspired property-based testing for OCaml, and combinators to
   generate random values to run tests on)
+- http://c-cube.github.io/sequence/[sequence]
+  Simple sequence abstract datatype, intended to iterate efficiently
+  on collections while performing some transformations.
