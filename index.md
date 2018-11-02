@@ -1,5 +1,4 @@
 # Personal page of Simon Cruanes
-
 <img width=200 src="assets/simon4.jpg">
 
 ## Presentation
@@ -7,7 +6,7 @@
 I work at Aesthetic Integration in Austin, Texas, on
 [Imandra](https://www.imandra.ai/), where I help
 write a user friendly, powerful proof system based
-on computational logic. I moved to Austin, Texas in January 2018.
+on computational logic. I moved to Austin, Texam in January 2018.
 
 Previously (2015-10 to 2017-10) I was at Inria Nancy doing a postdoc
 with [Jasmin Blanchette](http://www4.in.tum.de/~blanchet/)
