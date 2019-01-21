@@ -146,7 +146,6 @@ of some of the libraries below (might be outdated).
 
 * mail : `simon[dot]cruanes[dot]2007[at]m4x[dot]org`
 * I am on irc (freenode, rezosup) with `companion_cube` as nickname.
-* phone number at loria: 03-54-95-85-76
 * [pgp public key](assets/simon.asc "pgp public key")
-* a [blog](http://cedeela.fr) friends and me started a while ago (not very active)
+* a [blog](https://blag.cedeela.fr) friends and me started a while ago (not very active)
 
